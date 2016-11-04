@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ViM</string>
+
+    <string name="comunication">人脉</string>
+    <string name="meeting">会议</string>
+    <string name="conversation">会话</string>
+    <string name="profile">个人</string>
+
+    <string name="user_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="nick_name">昵称</string>
+    <string name="id">id</string>
+    <string name="sign">签名</string>
+
+    <string name="regist">注册</string>
+    <string name="login">登录</string>
+    <string name="logout">注销</string>
+
+    <string name="contact">联系人</string>
+    <string name="group">群组</string>
+
+    <string name="lazy_nick">没有昵称</string>
+    <string name="lazy_sign">什么也没有留下</string>
+    <string name="search_hit">请输入关键字</string>
+
+    <string name="modify_success">修改成功</string>
+    <string name="username_or_password_empty">用户名或密码不能为空</string>
+</resources>
